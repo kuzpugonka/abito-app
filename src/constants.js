@@ -6,6 +6,7 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/img/card-img.png",
+    description: "Торг возможен.",
   },
   {
     id: 1,
@@ -14,6 +15,7 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/img/card-img.png",
+    description: "Торг возможен.",
   },
   {
     id: 2,
@@ -22,6 +24,7 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/img/card-img.png",
+    description: "Торг возможен.",
   },
   {
     id: 3,
@@ -30,6 +33,7 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/img/card-img.png",
+    description: "Торг возможен.",
   },
   {
     id: 4,
@@ -38,6 +42,7 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/img/card-img.png",
+    description: "Торг возможен.",
   },
   {
     id: 5,
@@ -46,6 +51,7 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/img/card-img.png",
+    description: "Торг возможен.",
   },
   {
     id: 6,
@@ -54,6 +60,7 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/img/card-img.png",
+    description: "Торг возможен.",
   },
   {
     id: 7,
@@ -62,6 +69,7 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/img/card-img.png",
+    description: "Торг возможен.",
   },
   {
     id: 8,
@@ -70,5 +78,6 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/img/card-img.png",
+    description: "Торг возможен.",
   },
 ];

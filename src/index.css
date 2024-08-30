@@ -25,6 +25,7 @@
 body {
   margin: 0;
   font-family: Roboto, sans-serif;
+  color: rgb(10, 20, 58);
 }
 .container {
   width: 100%;
@@ -225,6 +226,18 @@ a {
   padding: 19px 72px;
   margin-bottom: 15px;
 }
+.content-product__undefind {
+  display: flex;
+  flex-direction: column;
+}
+.content-product__undefind a {
+  color: #fff;
+}
+.content-product__undefind a:hover {
+  color: rgb(10, 20, 58);
+  background-color: transparent;
+}
+
 
 @media (max-width: 1200px) {
   .container {
