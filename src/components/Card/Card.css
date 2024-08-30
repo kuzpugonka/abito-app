@@ -1,0 +1,54 @@
+
+/* card  */
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  transition: transform 0.3s ease-in-out;
+}
+.card:hover {
+  transform: scale(1.1);
+}
+.card__img {
+  border-radius: 10px;
+  margin-bottom: 12px;
+  font-size: 0;
+}
+.card-img {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+.card__title {
+  color: rgb(10, 20, 58);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0 0 5px;
+}
+.card:hover .card__title {
+  color: rgb(37, 110, 235);
+}
+.card__price {
+  color: rgb(10, 20, 58);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0 0 10px;
+}
+.card__address {
+  color: rgb(196, 196, 196);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.2;
+  margin: 0 0 4px;
+}
+.card__date {
+  color: rgb(196, 196, 196);
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.2;
+  margin: 0;
+}
+
